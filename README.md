@@ -4,11 +4,11 @@ mockery
 mockery provides the ability to easily generate mocks for golang interfaces. It removes
 the boilerplate coding required to use mocks.
 
-[![Linux Build Status](https://travis-ci.org/vektra/mockery.png)](https://travis-ci.org/vektra/mockery) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/vektra/mockery)](https://ci.appveyor.com/project/vektra/mockery) [![GoDoc](https://godoc.org/github.com/vektra/mockery/mockery?status.svg)](https://godoc.org/github.com/vektra/mockery/mockery) [![Go Report Card](https://goreportcard.com/badge/github.com/vektra/mockery)](https://goreportcard.com/report/github.com/vektra/mockery)
+[![Linux Build Status](https://travis-ci.org/vektra/mockery.png)](https://travis-ci.org/vektra/mockery) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/vektra/mockery)](https://ci.appveyor.com/project/vektra/mockery) [![GoDoc](https://godoc.org/github.com/king-jam/mockery/mockery?status.svg)](https://godoc.org/github.com/king-jam/mockery/mockery) [![Go Report Card](https://goreportcard.com/badge/github.com/king-jam/mockery)](https://goreportcard.com/report/github.com/king-jam/mockery)
 
 ### Installation
 
-`go get github.com/vektra/mockery/.../`, then `$GOPATH/bin/mockery`
+`go get github.com/king-jam/mockery/.../`, then `$GOPATH/bin/mockery`
 
 ### Examples
 
